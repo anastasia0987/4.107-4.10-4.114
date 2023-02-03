@@ -1,0 +1,15 @@
+/Users/user/Projects/zadanie5.2/zadanie5.2/bin/Debug/net7.0/zadanie5.2
+/Users/user/Projects/zadanie5.2/zadanie5.2/bin/Debug/net7.0/zadanie5.2.deps.json
+/Users/user/Projects/zadanie5.2/zadanie5.2/bin/Debug/net7.0/zadanie5.2.runtimeconfig.json
+/Users/user/Projects/zadanie5.2/zadanie5.2/bin/Debug/net7.0/zadanie5.2.dll
+/Users/user/Projects/zadanie5.2/zadanie5.2/bin/Debug/net7.0/zadanie5.2.pdb
+/Users/user/Projects/zadanie5.2/zadanie5.2/obj/Debug/net7.0/zadanie5.2.csproj.AssemblyReference.cache
+/Users/user/Projects/zadanie5.2/zadanie5.2/obj/Debug/net7.0/zadanie5.2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Projects/zadanie5.2/zadanie5.2/obj/Debug/net7.0/zadanie5.2.AssemblyInfoInputs.cache
+/Users/user/Projects/zadanie5.2/zadanie5.2/obj/Debug/net7.0/zadanie5.2.AssemblyInfo.cs
+/Users/user/Projects/zadanie5.2/zadanie5.2/obj/Debug/net7.0/zadanie5.2.csproj.CoreCompileInputs.cache
+/Users/user/Projects/zadanie5.2/zadanie5.2/obj/Debug/net7.0/zadanie5.2.dll
+/Users/user/Projects/zadanie5.2/zadanie5.2/obj/Debug/net7.0/refint/zadanie5.2.dll
+/Users/user/Projects/zadanie5.2/zadanie5.2/obj/Debug/net7.0/zadanie5.2.pdb
+/Users/user/Projects/zadanie5.2/zadanie5.2/obj/Debug/net7.0/zadanie5.2.genruntimeconfig.cache
+/Users/user/Projects/zadanie5.2/zadanie5.2/obj/Debug/net7.0/ref/zadanie5.2.dll
